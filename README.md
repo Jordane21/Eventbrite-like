@@ -17,9 +17,6 @@ Les événements se tiendront lieu à un endroit et une date.
 
 Mon pair-programmeur et moi-même, en PLS totale dès la database... 
 
-[![PLS parodie](https://image.noelshack.com/fichiers/2018/18/5/1525391135-capture-d-ecran-2018-05-04-a-01-44-48.png)](https://youtu.be/aIHPx6GjEo4)
-
-
 Merci à @Baptiste, (venu de Lille) pour son temps et son aide précieuse :pray:
 
 
@@ -27,7 +24,8 @@ Merci à @Baptiste, (venu de Lille) pour son temps et son aide précieuse :pray:
   
   [x] Lien en production juste [ici](https://fast-dusk-27475.herokuapp.com/)
   
-       
+[![PLS](http://www.image-heberg.fr/files/15253915311136712284.png)](https://youtu.be/aIHPx6GjEo4)
+
 
 ## Jordane :pig::love_letter:
 
