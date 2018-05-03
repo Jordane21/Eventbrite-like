@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Eventbrite Like</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css"/>
+   
+    <div class="topnav">
+    <a class="active" href="#home">Home</a>
+    <a href="user/new">New User</a>
+    <a href="user/show">Connexion </a>
+    <a href="#Events">Events</a>
+    <a href="#about"> </a>
+    <a href="#about">PLS</a>
+
+  </div>
+   
+
+   </head>
+
+  <body>
+    <%= yield %>
+  </body>
+</html>
