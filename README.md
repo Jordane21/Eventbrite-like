@@ -17,6 +17,8 @@ Les événements se tiendront lieu à un endroit et une date.
 
 Mon pair-programmeur et moi-même, en PLS totale dès la database... 
 
+[![PLS parodie..](https://img.youtube.com/vi/aIHPx6GjEo4/0.jpg)](https://youtu.be/aIHPx6GjEo4)
+
 
 Merci à @Baptiste, (venu de Lille) pour son temps et son aide précieuse :pray:
 
