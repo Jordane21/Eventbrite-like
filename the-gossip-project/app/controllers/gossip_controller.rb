@@ -6,9 +6,9 @@ class GossipController < ApplicationController
   def create
         @gossip = Gossip.new
         @gossip.anonymous_author = params[:anonymous_author]
-        @gossip.content = params[:content]  
+        @gossip.content = params[:content]
         @gossip.save
-        
+
         if @gossip.save
           redirect_to
         end
@@ -16,6 +16,7 @@ class GossipController < ApplicationController
 
   def show
     @gossip = Gossip.find_id(params[:id])
+    *find_by
   end
 
 end
